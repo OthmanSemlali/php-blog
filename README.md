@@ -54,7 +54,8 @@ You can download and install MySQL as a part of the XAMPP package or use a MySQL
 - MySQL
 
 ## Code Quality
-(Insert screenshot here)
+![Page Speed Insights](https://github.com/OthmanSemlali/BookyReview-BLOG/blob/main/images/insight.PNG)
+
 
 As you can see, the project has good statistics for performance, accessibility, best practices, and SEO. This demonstrates the quality of the code and the effort put into making the project accessible and efficient for users.
 
