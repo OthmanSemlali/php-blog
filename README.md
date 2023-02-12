@@ -61,7 +61,7 @@ You can download and install MySQL as a part of the XAMPP package or use a MySQL
 As you can see, the project has good statistics for performance, accessibility, best practices, and SEO. This demonstrates the quality of the code and the effort put into making the project accessible and efficient for users.
 
 
-Feel free to explore the demo website at Link and provide feedback.
+
 
 ## Author
 SEMLALI OTHMAN
@@ -70,4 +70,4 @@ SEMLALI OTHMAN
 This project is licensed under the MIT License.
 
 
-Feel free to explore the demo website at https://bookyreview.space/
+Feel free to explore the demo website at https://bookyreview.space/ and provide feedback
