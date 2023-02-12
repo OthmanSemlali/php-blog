@@ -16,6 +16,7 @@ A simple and clean blogging platform for book lovers to share their book reviews
 - Manage the side area for the blog
 
 ## Dashboard
+![Dashboard page](https://github.com/OthmanSemlali/BookyReview-BLOG/blob/main/images/Capture4.PNG)
 
 
 ## Getting Started
@@ -29,7 +30,7 @@ What you need to install the software and how to install them:
 
 ### Installation
 1. Clone the repository to your local machine:
-
+https://github.com/OthmanSemlali/BookyReview-BLOG.git
 
 2. Create a new database in your MySQL server and import the SQL file `bookyreview.sql` to create the tables. You can do this by using the Import feature in phpMyAdmin.
 3. Configure the database settings in `config.php` file. Don't forget to change the `APPROOT`, `URLROOT`, and other necessary configurations to match your server setup.
